@@ -22,6 +22,10 @@ Table of Contents
 - [Powered by](#powered-by)
 -->
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/requirements/master)
+
+
 DAPPER is a set of templates for benchmarking the performance of
 [data assimilation (DA)](https://sites.google.com/site/patricknraanespro/DA_tut.pdf)
 methods.
